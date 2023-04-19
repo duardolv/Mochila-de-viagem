@@ -1,3 +1,3 @@
-Projeto em desenvolvimento da formação da Alura de desenvolvimento de aplicações web com javascript
+Projeto da formação da Alura de desenvolvimento de aplicações web com javascript
 
-Nesse projeto você poderá criar uma lista de itens para levar em sua viagem
+Nesse projeto você pode criar uma lista de itens para levar em sua viagem e armazenar esses itens no navegador sem que os dados se percam
